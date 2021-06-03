@@ -1,5 +1,8 @@
-Alien Invasion
-==============
+# CIT 281 Lab 09
+Created Learning Lab course/repo within GitHub account and worked through the course to complete course repo.
+[Back to Main Page](https://erikakoopmans.github.io/)
+
+## Alien Invasion
 This is the sample game that is built in the first three Chapter of
 mobile HTML5 Game Development.
 
